@@ -1,3 +1,6 @@
-print("Entre com o seu nome: ")
-name = input()
-print(f"Olá {name}, bem-vindo ao nosso programa de atividades!")
+numero_um = input("Entre com um número: ")
+numero_dois = input("Entre com outro número: ")
+print(f"A soma dos números é: {int(numero_um) + int(numero_dois)}")
+print(f"A subtração dos números é: {int(numero_um) - int(numero_dois)}")
+print(f"A multiplicação dos números é: {int(numero_um) * int(numero_dois)}")
+
