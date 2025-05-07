@@ -56,9 +56,9 @@ quantidade_palavras = len(partes_uteis)
 print(f"Seu email: {email} está dividido em {quantidade_palavras} partes: {partes_uteis}, mas as mais importantes são: {partes_uteis[0]} e {partes_uteis[1]}")
 """
 
-numero = int(input("Entre com um número: "))
+'''numero = int(input("Entre com um número: "))
 type(numero) # verifica o tipo da variável
 texto = input("Entre com um texto: ")
 x = float(numero)
 texto = texto.upper()
-print(f"Seu número é: {x} e seu texto é: {texto}")
+print(f"Seu número é: {x} e seu texto é: {texto}")'''
