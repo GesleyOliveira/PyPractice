@@ -5,3 +5,5 @@ for i in range(5):
 media = sum(idades) / len(idades)
 print(f"A média das idades é {media:.2f}.")
 
+
+
