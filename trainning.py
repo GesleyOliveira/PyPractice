@@ -62,3 +62,35 @@ texto = input("Entre com um texto: ")
 x = float(numero)
 texto = texto.upper()
 print(f"Seu número é: {x} e seu texto é: {texto}")'''
+
+# Exemplo de função 
+# def soma(a, b):
+#     return a + b
+#
+# def subtracao(a, b):
+#     return a - b
+#
+# def multiplicacao(a, b):
+#     return a * b
+#
+# def divisao(a, b):    
+#     return a / b
+#
+# def calculadora(a, b, operacao):
+#     if operacao == '+':
+#         return soma(a, b)
+#     elif operacao == '-':
+#         return subtracao(a, b)
+#     elif operacao == '*':
+#         return multiplicacao(a, b)
+#     elif operacao == '/':
+#         return divisao(a, b)
+#     else:
+#         return "Operação inválida"
+#
+# numero_um = int(input("Entre com um número: "))
+# numero_dois = int(input("Entre com outro número: "))
+# operacao = input("Entre com a operação (+, -, *, /): ")
+# resultado = calculadora(numero_um, numero_dois, operacao)
+# print(f"O resultado da operação {operacao} entre {numero_um} e {numero_dois} é: {resultado}")
+# Exemplo de função com retorno
